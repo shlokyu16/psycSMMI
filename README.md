@@ -1,4 +1,4 @@
-# psycSMMI
+# PsycAi: Social Media and Mental Health
 
 App (Streamlit App Link):
 https://sk051606-psycsmmi-2025idk.streamlit.app
