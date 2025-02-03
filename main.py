@@ -23,7 +23,8 @@ def main():
             platforms_used = st.text_area("Platforms Used (comma-separated)")
             time_spent = st.number_input("Time Spent on Social Media (hours per day)", min_value=0, max_value=24, step=1)
             
-            st.write("### Mental Health Questions (Scale: 1-5)")
+            st.write("### Mental Health Questions")
+            st.write("##### Scale (1: Not Very Likely - 5: Very Likely)")
             adhd_q1 = st.slider("Purposeless use of Social Media", 1, 5, 3)
             adhd_q2 = st.slider("Distracted by Social Media", 1, 5, 3)
             adhd_q3 = st.slider("Ease of Distraction by Social Media", 1, 5, 3)
