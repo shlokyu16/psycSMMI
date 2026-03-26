@@ -3,7 +3,7 @@
 **AI and Psychology: Examining the Influence of Social Media on Mental Health**
 *Leveraging Machine Learning to Analyze Digital Behavior and Psychological Well-being*
 
-by **Shlok Khare** — Freshman, University of California, Davis
+by **Shlok Khare** — Undergrad at University of California, Davis
 
 ---
 
