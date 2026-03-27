@@ -8,6 +8,7 @@ by **Shlok Khare** — Undergrad at University of California, Davis
 ---
 
 [![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?logo=streamlit)](https://sk051606-psycsmmi-2025idk.streamlit.app)
+[![Paper Preprint](https://img.shields.io/badge/Zenodo-Paper-Preprint-636B2F?logo=zenodo)](https://zenodo.org/records/19244475)
 [![Article](https://img.shields.io/badge/Medium-Article-000000?logo=medium)](https://medium.com/@shloky.1605/sk051606-psycsmmi-2025idk-5481a9d3181f)
 [![Dataset](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?logo=kaggle)](https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health)
 
@@ -205,7 +206,7 @@ If you use this work, please cite:
 
 ```
 Khare, S. (2025). AI and Psychology: Examining the Influence of Social Media on Mental Health.
-University of California, Davis. https://github.com/sk051606/psycsmmi-2025
+University of California, Davis. https://github.com/shlokye16/psycSMMI
 ```
 
 Dataset:
