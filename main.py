@@ -143,7 +143,8 @@ def main():
         st.caption(
             "Model: MLP Neural Network (sklearn) · Dataset: ~480 survey responses · "
             "Accuracy: ~98.9% on hold-out test set · "
-            "[Source Code](https://github.com/sk051606/psycsmmi-2025) · "
+            "[Source Code](https://github.com/shlokye16/psycSMMI) · "
+            "[Paper Preprint](https://zenodo.org/records/19244475) · "
             "[Research Article](https://medium.com/@shloky.1605/sk051606-psycsmmi-2025idk-5481a9d3181f)"
         )
 
