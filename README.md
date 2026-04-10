@@ -174,7 +174,7 @@ One false negative (missed at-risk case) and one false positive out of 95 test s
 
 ---
 
-## Applications (HAI)
+## Applications
 
 - AI moderation systems that detect users at elevated mental health risk and surface appropriate resources
 - Digital wellness assistants providing personalised usage recommendations
